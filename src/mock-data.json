@@ -1,0 +1,1294 @@
+{
+   "data": [
+      {
+         "10_Min_Std_Dev": 8,
+         "Time": 2.46,
+         "Date_Time": "6/11/2001 12:00",
+         "10_Min_Sampled_Avg": 24.8
+      },
+      {
+         "10_Min_Std_Dev": 9,
+         "Time": 1.87,
+         "Date_Time": "6/11/2001 12:10",
+         "10_Min_Sampled_Avg": 24
+      },
+      {
+         "10_Min_Std_Dev": 10,
+         "Time": 1.71,
+         "Date_Time": "6/11/2001 12:20",
+         "10_Min_Sampled_Avg": 22.9
+      },
+      {
+         "10_Min_Std_Dev": 11,
+         "Time": 1.76,
+         "Date_Time": "6/11/2001 12:30",
+         "10_Min_Sampled_Avg": 17.9
+      },
+      {
+         "10_Min_Std_Dev": 12,
+         "Time": 1.87,
+         "Date_Time": "6/11/2001 12:40",
+         "10_Min_Sampled_Avg": 20.3
+      },
+      {
+         "10_Min_Std_Dev": 13,
+         "Time": 1.66,
+         "Date_Time": "6/11/2001 12:50",
+         "10_Min_Sampled_Avg": 21.5
+      },
+      {
+         "10_Min_Std_Dev": 14,
+         "Time": 2.09,
+         "Date_Time": "6/11/2001 13:00",
+         "10_Min_Sampled_Avg": 21.3
+      },
+      {
+         "10_Min_Std_Dev": 15,
+         "Time": 1.60,
+         "Date_Time": "6/11/2001 13:10",
+         "10_Min_Sampled_Avg": 21.3
+      },
+      {
+         "10_Min_Std_Dev": 16,
+         "Time": 1.44,
+         "Date_Time": "6/11/2001 13:20",
+         "10_Min_Sampled_Avg": 21.3
+      },
+      {
+         "10_Min_Std_Dev": 17,
+         "Time": 3.69,
+         "Date_Time": "6/11/2001 13:30",
+         "10_Min_Sampled_Avg": 22.4
+      },
+      {
+         "10_Min_Std_Dev": 18,
+         "Time": 2.78,
+         "Date_Time": "6/11/2001 13:40",
+         "10_Min_Sampled_Avg": 25.4
+      },
+      {
+         "10_Min_Std_Dev": 19,
+         "Time": 2.14,
+         "Date_Time": "6/11/2001 13:50",
+         "10_Min_Sampled_Avg": 25.9
+      },
+      {
+         "10_Min_Std_Dev": 20,
+         "Time": 2.67,
+         "Date_Time": "6/11/2001 14:00",
+         "10_Min_Sampled_Avg": 25.5
+      },
+      {
+         "10_Min_Std_Dev": 21,
+         "Time": 2.57,
+         "Date_Time": "6/11/2001 14:10",
+         "10_Min_Sampled_Avg": 25.7
+      },
+      {
+         "10_Min_Std_Dev": 22,
+         "Time": 2.35,
+         "Date_Time": "6/11/2001 14:20",
+         "10_Min_Sampled_Avg": 23.9
+      },
+      {
+         "10_Min_Std_Dev": 23,
+         "Time": 2.67,
+         "Date_Time": "6/11/2001 14:30",
+         "10_Min_Sampled_Avg": 24.7
+      },
+      {
+         "10_Min_Std_Dev": 24,
+         "Time": 2.46,
+         "Date_Time": "6/11/2001 14:40",
+         "10_Min_Sampled_Avg": 26.3
+      },
+      {
+         "10_Min_Std_Dev": 25,
+         "Time": 2.73,
+         "Date_Time": "6/11/2001 14:50",
+         "10_Min_Sampled_Avg": 26.9
+      },
+      {
+         "10_Min_Std_Dev": 26,
+         "Time": 2.19,
+         "Date_Time": "6/11/2001 15:00",
+         "10_Min_Sampled_Avg": 29
+      },
+      {
+         "10_Min_Std_Dev": 27,
+         "Time": 3.32,
+         "Date_Time": "6/11/2001 15:10",
+         "10_Min_Sampled_Avg": 24.4
+      },
+      {
+         "10_Min_Std_Dev": 28,
+         "Time": 1.98,
+         "Date_Time": "6/11/2001 15:20",
+         "10_Min_Sampled_Avg": 21.4
+      },
+      {
+         "10_Min_Std_Dev": 29,
+         "Time": 2.46,
+         "Date_Time": "6/11/2001 15:30",
+         "10_Min_Sampled_Avg": 20
+      },
+      {
+         "10_Min_Std_Dev": 30,
+         "Time": 1.76,
+         "Date_Time": "6/11/2001 15:40",
+         "10_Min_Sampled_Avg": 18.3
+      },
+      {
+         "10_Min_Std_Dev": 31,
+         "Time": 1.82,
+         "Date_Time": "6/11/2001 15:50",
+         "10_Min_Sampled_Avg": 17.1
+      },
+      {
+         "10_Min_Std_Dev": 32,
+         "Time": 2.3,
+         "Date_Time": "6/11/2001 16:00",
+         "10_Min_Sampled_Avg": 17.6
+      },
+      {
+         "10_Min_Std_Dev": 33,
+         "Time": 1.98,
+         "Date_Time": "6/11/2001 16:10",
+         "10_Min_Sampled_Avg": 16.7
+      },
+      {
+         "10_Min_Std_Dev": 34,
+         "Time": 2.3,
+         "Date_Time": "6/11/2001 16:20",
+         "10_Min_Sampled_Avg": 11.4
+      },
+      {
+         "10_Min_Std_Dev": 35,
+         "Time": 2.62,
+         "Date_Time": "6/11/2001 16:30",
+         "10_Min_Sampled_Avg": 16.6
+      },
+      {
+         "10_Min_Std_Dev": 36,
+         "Time": 2.3,
+         "Date_Time": "6/11/2001 16:40",
+         "10_Min_Sampled_Avg": 16.1
+      },
+      {
+         "10_Min_Std_Dev": 37,
+         "Time": 2.09,
+         "Date_Time": "6/11/2001 16:50",
+         "10_Min_Sampled_Avg": 16
+      },
+      {
+         "10_Min_Std_Dev": 38,
+         "Time": 2.51,
+         "Date_Time": "6/11/2001 17:00",
+         "10_Min_Sampled_Avg": 17
+      },
+      {
+         "10_Min_Std_Dev": 39,
+         "Time": 2.19,
+         "Date_Time": "6/11/2001 17:10",
+         "10_Min_Sampled_Avg": 17.2
+      },
+      {
+         "10_Min_Std_Dev": 40,
+         "Time": 2.62,
+         "Date_Time": "6/11/2001 17:20",
+         "10_Min_Sampled_Avg": 17.1
+      },
+      {
+         "10_Min_Std_Dev": 41,
+         "Time": 2.94,
+         "Date_Time": "6/11/2001 17:30",
+         "10_Min_Sampled_Avg": 16.8
+      },
+      {
+         "10_Min_Std_Dev": 42,
+         "Time": 3.05,
+         "Date_Time": "6/11/2001 17:40",
+         "10_Min_Sampled_Avg": 16.6
+      },
+      {
+         "10_Min_Std_Dev": 43,
+         "Time": 2.62,
+         "Date_Time": "6/11/2001 17:50",
+         "10_Min_Sampled_Avg": 17.5
+      },
+      {
+         "10_Min_Std_Dev": 44,
+         "Time": 2.09,
+         "Date_Time": "6/11/2001 18:00",
+         "10_Min_Sampled_Avg": 17.1
+      },
+      {
+         "10_Min_Std_Dev": 45,
+         "Time": 2.03,
+         "Date_Time": "6/11/2001 18:10",
+         "10_Min_Sampled_Avg": 18.6
+      },
+      {
+         "10_Min_Std_Dev": 46,
+         "Time": 2.03,
+         "Date_Time": "6/11/2001 18:20",
+         "10_Min_Sampled_Avg": 18.4
+      },
+      {
+         "10_Min_Std_Dev": 47,
+         "Time": 2.73,
+         "Date_Time": "6/11/2001 18:30",
+         "10_Min_Sampled_Avg": 15
+      },
+      {
+         "10_Min_Std_Dev": 48,
+         "Time": 2.19,
+         "Date_Time": "6/11/2001 18:40",
+         "10_Min_Sampled_Avg": 16
+      },
+      {
+         "10_Min_Std_Dev": 49,
+         "Time": 2.14,
+         "Date_Time": "6/11/2001 18:50",
+         "10_Min_Sampled_Avg": 16.5
+      },
+      {
+         "10_Min_Std_Dev": 50,
+         "Time": 2.41,
+         "Date_Time": "6/11/2001 19:00",
+         "10_Min_Sampled_Avg": 18.7
+      },
+      {
+         "10_Min_Std_Dev": 51,
+         "Time": 2.62,
+         "Date_Time": "6/11/2001 19:10",
+         "10_Min_Sampled_Avg": 16.7
+      },
+      {
+         "10_Min_Std_Dev": 52,
+         "Time": 2.3,
+         "Date_Time": "6/11/2001 19:20",
+         "10_Min_Sampled_Avg": 14.7
+      },
+      {
+         "10_Min_Std_Dev": 53,
+         "Time": 2.09,
+         "Date_Time": "6/11/2001 19:30",
+         "10_Min_Sampled_Avg": 13.6
+      },
+      {
+         "10_Min_Std_Dev": 54,
+         "Time": 2.89,
+         "Date_Time": "6/11/2001 19:40",
+         "10_Min_Sampled_Avg": 16
+      },
+      {
+         "10_Min_Std_Dev": 55,
+         "Time": 2.73,
+         "Date_Time": "6/11/2001 19:50",
+         "10_Min_Sampled_Avg": 15.9
+      },
+      {
+         "10_Min_Std_Dev": 56,
+         "Time": 2.14,
+         "Date_Time": "6/11/2001 20:00",
+         "10_Min_Sampled_Avg": 16.2
+      },
+      {
+         "10_Min_Std_Dev": 57,
+         "Time": 2.46,
+         "Date_Time": "6/11/2001 20:10",
+         "10_Min_Sampled_Avg": 17.7
+      },
+      {
+         "10_Min_Std_Dev": 58,
+         "Time": 2.14,
+         "Date_Time": "6/11/2001 20:20",
+         "10_Min_Sampled_Avg": 16.2
+      },
+      {
+         "10_Min_Std_Dev": 59,
+         "Time": 1.87,
+         "Date_Time": "6/11/2001 20:30",
+         "10_Min_Sampled_Avg": 15.9
+      },
+      {
+         "10_Min_Std_Dev": 60,
+         "Time": 2.19,
+         "Date_Time": "6/11/2001 20:40",
+         "10_Min_Sampled_Avg": 15.4
+      },
+      {
+         "10_Min_Std_Dev": 61,
+         "Time": 2.35,
+         "Date_Time": "6/11/2001 20:50",
+         "10_Min_Sampled_Avg": 18.3
+      },
+      {
+         "10_Min_Std_Dev": 62,
+         "Time": 2.41,
+         "Date_Time": "6/11/2001 21:00",
+         "10_Min_Sampled_Avg": 18.1
+      },
+      {
+         "10_Min_Std_Dev": 63,
+         "Time": 2.62,
+         "Date_Time": "6/11/2001 21:10",
+         "10_Min_Sampled_Avg": 19.2
+      },
+      {
+         "10_Min_Std_Dev": 64,
+         "Time": 2.3,
+         "Date_Time": "6/11/2001 21:20",
+         "10_Min_Sampled_Avg": 17.5
+      },
+      {
+         "10_Min_Std_Dev": 65,
+         "Time": 1.92,
+         "Date_Time": "6/11/2001 21:30",
+         "10_Min_Sampled_Avg": 16
+      },
+      {
+         "10_Min_Std_Dev": 66,
+         "Time": 2.14,
+         "Date_Time": "6/11/2001 21:40",
+         "10_Min_Sampled_Avg": 14.9
+      },
+      {
+         "10_Min_Std_Dev": 67,
+         "Time": 1.98,
+         "Date_Time": "6/11/2001 21:50",
+         "10_Min_Sampled_Avg": 15.4
+      },
+      {
+         "10_Min_Std_Dev": 68,
+         "Time": 1.55,
+         "Date_Time": "6/11/2001 22:00",
+         "10_Min_Sampled_Avg": 14.7
+      },
+      {
+         "10_Min_Std_Dev": 69,
+         "Time": 1.87,
+         "Date_Time": "6/11/2001 22:10",
+         "10_Min_Sampled_Avg": 15.5
+      },
+      {
+         "10_Min_Std_Dev": 70,
+         "Time": 2.41,
+         "Date_Time": "6/11/2001 22:20",
+         "10_Min_Sampled_Avg": 17.4
+      },
+      {
+         "10_Min_Std_Dev": 71,
+         "Time": 2.41,
+         "Date_Time": "6/11/2001 22:30",
+         "10_Min_Sampled_Avg": 14.1
+      },
+      {
+         "10_Min_Std_Dev": 72,
+         "Time": 1.82,
+         "Date_Time": "6/11/2001 22:40",
+         "10_Min_Sampled_Avg": 14
+      },
+      {
+         "10_Min_Std_Dev": 73,
+         "Time": 2.25,
+         "Date_Time": "6/11/2001 22:50",
+         "10_Min_Sampled_Avg": 13
+      },
+      {
+         "10_Min_Std_Dev": 74,
+         "Time": 2.30,
+         "Date_Time": "6/11/2001 23:00",
+         "10_Min_Sampled_Avg": 14.7
+      },
+      {
+         "10_Min_Std_Dev": 75,
+         "Time": 1.98,
+         "Date_Time": "6/11/2001 23:10",
+         "10_Min_Sampled_Avg": 14.2
+      },
+      {
+         "10_Min_Std_Dev": 76,
+         "Time": 2.25,
+         "Date_Time": "6/11/2001 23:20",
+         "10_Min_Sampled_Avg": 15
+      },
+      {
+         "10_Min_Std_Dev": 77,
+         "Time": 2.19,
+         "Date_Time": "6/11/2001 23:30",
+         "10_Min_Sampled_Avg": 14.3
+      },
+      {
+         "10_Min_Std_Dev": 78,
+         "Time": 1.98,
+         "Date_Time": "6/11/2001 23:40",
+         "10_Min_Sampled_Avg": 14.7
+      },
+      {
+         "10_Min_Std_Dev": 79,
+         "Time": 2.09,
+         "Date_Time": "6/11/2001 23:50",
+         "10_Min_Sampled_Avg": 15.9
+      },
+      {
+         "10_Min_Std_Dev": 80,
+         "Time": 2.09,
+         "Date_Time": "6/12/2001 00:00",
+         "10_Min_Sampled_Avg": 17.7
+      },
+      {
+         "10_Min_Std_Dev": 81,
+         "Time": 2.03,
+         "Date_Time": "6/12/2001 00:10",
+         "10_Min_Sampled_Avg": 16.1
+      },
+      {
+         "10_Min_Std_Dev": 82,
+         "Time": 2.03,
+         "Date_Time": "6/12/2001 00:20",
+         "10_Min_Sampled_Avg": 15.3
+      },
+      {
+         "10_Min_Std_Dev": 83,
+         "Time": 1.76,
+         "Date_Time": "6/12/2001 00:30",
+         "10_Min_Sampled_Avg": 15.2
+      },
+      {
+         "10_Min_Std_Dev": 84,
+         "Time": 1.98,
+         "Date_Time": "6/12/2001 00:40",
+         "10_Min_Sampled_Avg": 14.7
+      },
+      {
+         "10_Min_Std_Dev": 85,
+         "Time": 2.14,
+         "Date_Time": "6/12/2001 00:50",
+         "10_Min_Sampled_Avg": 15.9
+      },
+      {
+         "10_Min_Std_Dev": 86,
+         "Time": 2.09,
+         "Date_Time": "6/12/2001 01:00",
+         "10_Min_Sampled_Avg": 14.8
+      },
+      {
+         "10_Min_Std_Dev": 87,
+         "Time": 2.03,
+         "Date_Time": "6/12/2001 01:10",
+         "10_Min_Sampled_Avg": 15.2
+      },
+      {
+         "10_Min_Std_Dev": 88,
+         "Time": 1.92,
+         "Date_Time": "6/12/2001 01:20",
+         "10_Min_Sampled_Avg": 14.5
+      },
+      {
+         "10_Min_Std_Dev": 89,
+         "Time": 2.09,
+         "Date_Time": "6/12/2001 01:30",
+         "10_Min_Sampled_Avg": 15.1
+      },
+      {
+         "10_Min_Std_Dev": 90,
+         "Time": 1.92,
+         "Date_Time": "6/12/2001 01:40",
+         "10_Min_Sampled_Avg": 15.2
+      },
+      {
+         "10_Min_Std_Dev": 91,
+         "Time": 2.19,
+         "Date_Time": "6/12/2001 01:50",
+         "10_Min_Sampled_Avg": 15.3
+      },
+      {
+         "10_Min_Std_Dev": 92,
+         "Time": 2.03,
+         "Date_Time": "6/12/2001 02:00",
+         "10_Min_Sampled_Avg": 15.2
+      },
+      {
+         "10_Min_Std_Dev": 93,
+         "Time": 2.09,
+         "Date_Time": "6/12/2001 02:10",
+         "10_Min_Sampled_Avg": 14.9
+      },
+      {
+         "10_Min_Std_Dev": 94,
+         "Time": 2.35,
+         "Date_Time": "6/12/2001 02:20",
+         "10_Min_Sampled_Avg": 15.4
+      },
+      {
+         "10_Min_Std_Dev": 95,
+         "Time": 1.98,
+         "Date_Time": "6/12/2001 02:30",
+         "10_Min_Sampled_Avg": 15.3
+      },
+      {
+         "10_Min_Std_Dev": 96,
+         "Time": 1.55,
+         "Date_Time": "6/12/2001 02:40",
+         "10_Min_Sampled_Avg": 14.5
+      },
+      {
+         "10_Min_Std_Dev": 97,
+         "Time": 2.25,
+         "Date_Time": "6/12/2001 02:50",
+         "10_Min_Sampled_Avg": 15.7
+      },
+      {
+         "10_Min_Std_Dev": 98,
+         "Time": 1.82,
+         "Date_Time": "6/12/2001 03:00",
+         "10_Min_Sampled_Avg": 15
+      },
+      {
+         "10_Min_Std_Dev": 99,
+         "Time": 1.92,
+         "Date_Time": "6/12/2001 03:10",
+         "10_Min_Sampled_Avg": 14
+      },
+      {
+         "10_Min_Std_Dev": 100,
+         "Time": 1.92,
+         "Date_Time": "6/12/2001 03:20",
+         "10_Min_Sampled_Avg": 11.3
+      },
+      {
+         "10_Min_Std_Dev": 101,
+         "Time": 1.66,
+         "Date_Time": "6/12/2001 03:30",
+         "10_Min_Sampled_Avg": 11.8
+      },
+      {
+         "10_Min_Std_Dev": 102,
+         "Time": 1.6,
+         "Date_Time": "6/12/2001 03:40",
+         "10_Min_Sampled_Avg": 12.1
+      },
+      {
+         "10_Min_Std_Dev": 103,
+         "Time": 1.82,
+         "Date_Time": "6/12/2001 03:50",
+         "10_Min_Sampled_Avg": 12.3
+      },
+      {
+         "10_Min_Std_Dev": 104,
+         "Time": 1.6,
+         "Date_Time": "6/12/2001 04:00",
+         "10_Min_Sampled_Avg": 12.3
+      },
+      {
+         "10_Min_Std_Dev": 105,
+         "Time": 1.76,
+         "Date_Time": "6/12/2001 04:10",
+         "10_Min_Sampled_Avg": 12.2
+      },
+      {
+         "10_Min_Std_Dev": 106,
+         "Time": 1.66,
+         "Date_Time": "6/12/2001 04:20",
+         "10_Min_Sampled_Avg": 11.8
+      },
+      {
+         "10_Min_Std_Dev": 107,
+         "Time": 1.71,
+         "Date_Time": "6/12/2001 04:30",
+         "10_Min_Sampled_Avg": 9.3
+      },
+      {
+         "10_Min_Std_Dev": 108,
+         "Time": 1.28,
+         "Date_Time": "6/12/2001 04:40",
+         "10_Min_Sampled_Avg": 8.7
+      },
+      {
+         "10_Min_Std_Dev": 109,
+         "Time": 1.02,
+         "Date_Time": "6/12/2001 04:50",
+         "10_Min_Sampled_Avg": 9.5
+      },
+      {
+         "10_Min_Std_Dev": 110,
+         "Time": 1.66,
+         "Date_Time": "6/12/2001 05:00",
+         "10_Min_Sampled_Avg": 8.9
+      },
+      {
+         "10_Min_Std_Dev": 111,
+         "Time": 0.91,
+         "Date_Time": "6/12/2001 05:10",
+         "10_Min_Sampled_Avg": 7.2
+      },
+      {
+         "10_Min_Std_Dev": 112,
+         "Time": 1.34,
+         "Date_Time": "6/12/2001 05:20",
+         "10_Min_Sampled_Avg": 8
+      },
+      {
+         "10_Min_Std_Dev": 113,
+         "Time": 1.02,
+         "Date_Time": "6/12/2001 05:30",
+         "10_Min_Sampled_Avg": 7.9
+      },
+      {
+         "10_Min_Std_Dev": 114,
+         "Time": 1.28,
+         "Date_Time": "6/12/2001 05:40",
+         "10_Min_Sampled_Avg": 5.5
+      },
+      {
+         "10_Min_Std_Dev": 115,
+         "Time": 1.07,
+         "Date_Time": "6/12/2001 05:50",
+         "10_Min_Sampled_Avg": 4.9
+      },
+      {
+         "10_Min_Std_Dev": 116,
+         "Time": 1.23,
+         "Date_Time": "6/12/2001 06:00",
+         "10_Min_Sampled_Avg": 8.9
+      },
+      {
+         "10_Min_Std_Dev": 117,
+         "Time": 1.23,
+         "Date_Time": "6/12/2001 06:10",
+         "10_Min_Sampled_Avg": 8.6
+      },
+      {
+         "10_Min_Std_Dev": 118,
+         "Time": 1.39,
+         "Date_Time": "6/12/2001 06:20",
+         "10_Min_Sampled_Avg": 12.1
+      },
+      {
+         "10_Min_Std_Dev": 119,
+         "Time": 1.87,
+         "Date_Time": "6/12/2001 06:30",
+         "10_Min_Sampled_Avg": 15
+      },
+      {
+         "10_Min_Std_Dev": 120,
+         "Time": 2.03,
+         "Date_Time": "6/12/2001 06:40",
+         "10_Min_Sampled_Avg": 13.8
+      },
+      {
+         "10_Min_Std_Dev": 121,
+         "Time": 1.98,
+         "Date_Time": "6/12/2001 06:50",
+         "10_Min_Sampled_Avg": 14.9
+      },
+      {
+         "10_Min_Std_Dev": 122,
+         "Time": 2.03,
+         "Date_Time": "6/12/2001 07:00",
+         "10_Min_Sampled_Avg": 15.9
+      },
+      {
+         "10_Min_Std_Dev": 123,
+         "Time": 3.26,
+         "Date_Time": "6/12/2001 07:10",
+         "10_Min_Sampled_Avg": 19.6
+      },
+      {
+         "10_Min_Std_Dev": 124,
+         "Time": 3.26,
+         "Date_Time": "6/12/2001 07:20",
+         "10_Min_Sampled_Avg": 24.9
+      },
+      {
+         "10_Min_Std_Dev": 125,
+         "Time": 3.69,
+         "Date_Time": "6/12/2001 07:30",
+         "10_Min_Sampled_Avg": 19.2
+      },
+      {
+         "10_Min_Std_Dev": 126,
+         "Time": 4.06,
+         "Date_Time": "6/12/2001 07:40",
+         "10_Min_Sampled_Avg": 21.7
+      },
+      {
+         "10_Min_Std_Dev": 127,
+         "Time": 6.1,
+         "Date_Time": "6/12/2001 07:50",
+         "10_Min_Sampled_Avg": 13.5
+      },
+      {
+         "10_Min_Std_Dev": 128,
+         "Time": 2.62,
+         "Date_Time": "6/12/2001 08:00",
+         "10_Min_Sampled_Avg": 17.2
+      },
+      {
+         "10_Min_Std_Dev": 129,
+         "Time": 3.26,
+         "Date_Time": "6/12/2001 08:10",
+         "10_Min_Sampled_Avg": 28.5
+      },
+      {
+         "10_Min_Std_Dev": 130,
+         "Time": 3.32,
+         "Date_Time": "6/12/2001 08:20",
+         "10_Min_Sampled_Avg": 29.9
+      },
+      {
+         "10_Min_Std_Dev": 131,
+         "Time": 3.96,
+         "Date_Time": "6/12/2001 08:30",
+         "10_Min_Sampled_Avg": 30.9
+      },
+      {
+         "10_Min_Std_Dev": 132,
+         "Time": 3.32,
+         "Date_Time": "6/12/2001 08:40",
+         "10_Min_Sampled_Avg": 27.8
+      },
+      {
+         "10_Min_Std_Dev": 133,
+         "Time": 3.74,
+         "Date_Time": "6/12/2001 08:50",
+         "10_Min_Sampled_Avg": 26.1
+      },
+      {
+         "10_Min_Std_Dev": 134,
+         "Time": 4.81,
+         "Date_Time": "6/12/2001 09:00",
+         "10_Min_Sampled_Avg": 23.6
+      },
+      {
+         "10_Min_Std_Dev": 135,
+         "Time": 2.73,
+         "Date_Time": "6/12/2001 09:10",
+         "10_Min_Sampled_Avg": 17.4
+      },
+      {
+         "10_Min_Std_Dev": 136,
+         "Time": 1.92,
+         "Date_Time": "6/12/2001 09:20",
+         "10_Min_Sampled_Avg": 18.6
+      },
+      {
+         "10_Min_Std_Dev": 137,
+         "Time": 2.78,
+         "Date_Time": "6/12/2001 09:30",
+         "10_Min_Sampled_Avg": 12.1
+      },
+      {
+         "10_Min_Std_Dev": 138,
+         "Time": 2.89,
+         "Date_Time": "6/12/2001 09:40",
+         "10_Min_Sampled_Avg": 14.9
+      },
+      {
+         "10_Min_Std_Dev": 139,
+         "Time": 2.41,
+         "Date_Time": "6/12/2001 09:50",
+         "10_Min_Sampled_Avg": 13.8
+      },
+      {
+         "10_Min_Std_Dev": 140,
+         "Time": 2.83,
+         "Date_Time": "6/12/2001 10:00",
+         "10_Min_Sampled_Avg": 13.3
+      },
+      {
+         "10_Min_Std_Dev": 141,
+         "Time": 1.07,
+         "Date_Time": "6/12/2001 10:10",
+         "10_Min_Sampled_Avg": 10.7
+      },
+      {
+         "10_Min_Std_Dev": 142,
+         "Time": 1.07,
+         "Date_Time": "6/12/2001 10:20",
+         "10_Min_Sampled_Avg": 12.2
+      },
+      {
+         "10_Min_Std_Dev": 143,
+         "Time": 4.17,
+         "Date_Time": "6/12/2001 10:30",
+         "10_Min_Sampled_Avg": 17.8
+      },
+      {
+         "10_Min_Std_Dev": 144,
+         "Time": 1.55,
+         "Date_Time": "6/12/2001 10:40",
+         "10_Min_Sampled_Avg": 17.8
+      },
+      {
+         "10_Min_Std_Dev": 145,
+         "Time": 2.14,
+         "Date_Time": "6/12/2001 10:50",
+         "10_Min_Sampled_Avg": 18.3
+      },
+      {
+         "10_Min_Std_Dev": 146,
+         "Time": 1.82,
+         "Date_Time": "6/12/2001 11:00",
+         "10_Min_Sampled_Avg": 11.3
+      },
+      {
+         "10_Min_Std_Dev": 147,
+         "Time": 2.35,
+         "Date_Time": "6/12/2001 11:10",
+         "10_Min_Sampled_Avg": 16.8
+      },
+      {
+         "10_Min_Std_Dev": 148,
+         "Time": 2.62,
+         "Date_Time": "6/12/2001 11:20",
+         "10_Min_Sampled_Avg": 8.7
+      },
+      {
+         "10_Min_Std_Dev": 149,
+         "Time": 13.63,
+         "Date_Time": "6/12/2001 11:30",
+         "10_Min_Sampled_Avg": 14.4
+      },
+      {
+         "10_Min_Std_Dev": 150,
+         "Time": 1.71,
+         "Date_Time": "6/12/2001 11:40",
+         "10_Min_Sampled_Avg": 12.3
+      },
+      {
+         "10_Min_Std_Dev": 151,
+         "Time": 2.99,
+         "Date_Time": "6/12/2001 11:50",
+         "10_Min_Sampled_Avg": 15.4
+      },
+      {
+         "10_Min_Std_Dev": 152,
+         "Time": 1.5,
+         "Date_Time": "6/12/2001 12:00",
+         "10_Min_Sampled_Avg": 10
+      },
+      {
+         "10_Min_Std_Dev": 153,
+         "Time": 2.83,
+         "Date_Time": "6/12/2001 12:10",
+         "10_Min_Sampled_Avg": 15.1
+      },
+      {
+         "10_Min_Std_Dev": 154,
+         "Time": 2.78,
+         "Date_Time": "6/12/2001 12:20",
+         "10_Min_Sampled_Avg": 14.8
+      },
+      {
+         "10_Min_Std_Dev": 155,
+         "Time": 2.51,
+         "Date_Time": "6/12/2001 12:30",
+         "10_Min_Sampled_Avg": 12.8
+      },
+      {
+         "10_Min_Std_Dev": 156,
+         "Time": 1.44,
+         "Date_Time": "6/12/2001 12:40",
+         "10_Min_Sampled_Avg": 9.6
+      },
+      {
+         "10_Min_Std_Dev": 157,
+         "Time": 1.76,
+         "Date_Time": "6/12/2001 12:50",
+         "10_Min_Sampled_Avg": 12.5
+      },
+      {
+         "10_Min_Std_Dev": 158,
+         "Time": 2.03,
+         "Date_Time": "6/12/2001 13:00",
+         "10_Min_Sampled_Avg": 15.5
+      },
+      {
+         "10_Min_Std_Dev": 159,
+         "Time": 1.98,
+         "Date_Time": "6/12/2001 13:10",
+         "10_Min_Sampled_Avg": 18.9
+      },
+      {
+         "10_Min_Std_Dev": 160,
+         "Time": 1.76,
+         "Date_Time": "6/12/2001 13:20",
+         "10_Min_Sampled_Avg": 19.8
+      },
+      {
+         "10_Min_Std_Dev": 161,
+         "Time": 2.35,
+         "Date_Time": "6/12/2001 13:30",
+         "10_Min_Sampled_Avg": 20.4
+      },
+      {
+         "10_Min_Std_Dev": 162,
+         "Time": 2.46,
+         "Date_Time": "6/12/2001 13:40",
+         "10_Min_Sampled_Avg": 19.3
+      },
+      {
+         "10_Min_Std_Dev": 163,
+         "Time": 3.53,
+         "Date_Time": "6/12/2001 13:50",
+         "10_Min_Sampled_Avg": 20.6
+      },
+      {
+         "10_Min_Std_Dev": 164,
+         "Time": 2.67,
+         "Date_Time": "6/12/2001 14:00",
+         "10_Min_Sampled_Avg": 22.3
+      },
+      {
+         "10_Min_Std_Dev": 165,
+         "Time": 2.99,
+         "Date_Time": "6/12/2001 14:10",
+         "10_Min_Sampled_Avg": 22.6
+      },
+      {
+         "10_Min_Std_Dev": 166,
+         "Time": 3.15,
+         "Date_Time": "6/12/2001 14:20",
+         "10_Min_Sampled_Avg": 21
+      },
+      {
+         "10_Min_Std_Dev": 167,
+         "Time": 3.9,
+         "Date_Time": "6/12/2001 14:30",
+         "10_Min_Sampled_Avg": 23.3
+      },
+      {
+         "10_Min_Std_Dev": 168,
+         "Time": 2.99,
+         "Date_Time": "6/12/2001 14:40",
+         "10_Min_Sampled_Avg": 21.9
+      },
+      {
+         "10_Min_Std_Dev": 169,
+         "Time": 3.15,
+         "Date_Time": "6/12/2001 14:50",
+         "10_Min_Sampled_Avg": 22.8
+      },
+      {
+         "10_Min_Std_Dev": 170,
+         "Time": 3.26,
+         "Date_Time": "6/12/2001 15:00",
+         "10_Min_Sampled_Avg": 24.6
+      },
+      {
+         "10_Min_Std_Dev": 171,
+         "Time": 3.05,
+         "Date_Time": "6/12/2001 15:10",
+         "10_Min_Sampled_Avg": 24
+      },
+      {
+         "10_Min_Std_Dev": 172,
+         "Time": 3.64,
+         "Date_Time": "6/12/2001 15:20",
+         "10_Min_Sampled_Avg": 25
+      },
+      {
+         "10_Min_Std_Dev": 173,
+         "Time": 3.69,
+         "Date_Time": "6/12/2001 15:30",
+         "10_Min_Sampled_Avg": 26.9
+      },
+      {
+         "10_Min_Std_Dev": 174,
+         "Time": 3.69,
+         "Date_Time": "6/12/2001 15:40",
+         "10_Min_Sampled_Avg": 28.4
+      },
+      {
+         "10_Min_Std_Dev": 175,
+         "Time": 3.74,
+         "Date_Time": "6/12/2001 15:50",
+         "10_Min_Sampled_Avg": 27.1
+      },
+      {
+         "10_Min_Std_Dev": 176,
+         "Time": 3.21,
+         "Date_Time": "6/12/2001 16:00",
+         "10_Min_Sampled_Avg": 24.4
+      },
+      {
+         "10_Min_Std_Dev": 177,
+         "Time": 4.49,
+         "Date_Time": "6/12/2001 16:10",
+         "10_Min_Sampled_Avg": 24.4
+      },
+      {
+         "10_Min_Std_Dev": 178,
+         "Time": 3.85,
+         "Date_Time": "6/12/2001 16:20",
+         "10_Min_Sampled_Avg": 28.8
+      },
+      {
+         "10_Min_Std_Dev": 179,
+         "Time": 3.42,
+         "Date_Time": "6/12/2001 16:30",
+         "10_Min_Sampled_Avg": 28.9
+      },
+      {
+         "10_Min_Std_Dev": 180,
+         "Time": 2.62,
+         "Date_Time": "6/12/2001 16:40",
+         "10_Min_Sampled_Avg": 28.5
+      },
+      {
+         "10_Min_Std_Dev": 181,
+         "Time": 3.53,
+         "Date_Time": "6/12/2001 16:50",
+         "10_Min_Sampled_Avg": 27.5
+      },
+      {
+         "10_Min_Std_Dev": 182,
+         "Time": 2.94,
+         "Date_Time": "6/12/2001 17:00",
+         "10_Min_Sampled_Avg": 24.9
+      },
+      {
+         "10_Min_Std_Dev": 183,
+         "Time": 3.64,
+         "Date_Time": "6/12/2001 17:10",
+         "10_Min_Sampled_Avg": 27
+      },
+      {
+         "10_Min_Std_Dev": 184,
+         "Time": 3.37,
+         "Date_Time": "6/12/2001 17:20",
+         "10_Min_Sampled_Avg": 25.6
+      },
+      {
+         "10_Min_Std_Dev": 185,
+         "Time": 3.96,
+         "Date_Time": "6/12/2001 17:30",
+         "10_Min_Sampled_Avg": 26.6
+      },
+      {
+         "10_Min_Std_Dev": 186,
+         "Time": 3.53,
+         "Date_Time": "6/12/2001 17:40",
+         "10_Min_Sampled_Avg": 25.5
+      },
+      {
+         "10_Min_Std_Dev": 187,
+         "Time": 3.96,
+         "Date_Time": "6/12/2001 17:50",
+         "10_Min_Sampled_Avg": 28.6
+      },
+      {
+         "10_Min_Std_Dev": 188,
+         "Time": 4.97,
+         "Date_Time": "6/12/2001 18:00",
+         "10_Min_Sampled_Avg": 32.5
+      },
+      {
+         "10_Min_Std_Dev": 189,
+         "Time": 4.28,
+         "Date_Time": "6/12/2001 18:10",
+         "10_Min_Sampled_Avg": 30.7
+      },
+      {
+         "10_Min_Std_Dev": 190,
+         "Time": 2.57,
+         "Date_Time": "6/12/2001 18:20",
+         "10_Min_Sampled_Avg": 30.2
+      },
+      {
+         "10_Min_Std_Dev": 191,
+         "Time": 3.90,
+         "Date_Time": "6/12/2001 18:30",
+         "10_Min_Sampled_Avg": 30
+      },
+      {
+         "10_Min_Std_Dev": 192,
+         "Time": 2.99,
+         "Date_Time": "6/12/2001 18:40",
+         "10_Min_Sampled_Avg": 24.9
+      },
+      {
+         "10_Min_Std_Dev": 193,
+         "Time": 2.94,
+         "Date_Time": "6/12/2001 18:50",
+         "10_Min_Sampled_Avg": 25.7
+      },
+      {
+         "10_Min_Std_Dev": 194,
+         "Time": 2.83,
+         "Date_Time": "6/12/2001 19:00",
+         "10_Min_Sampled_Avg": 24.5
+      },
+      {
+         "10_Min_Std_Dev": 195,
+         "Time": 3.15,
+         "Date_Time": "6/12/2001 19:10",
+         "10_Min_Sampled_Avg": 24.5
+      },
+      {
+         "10_Min_Std_Dev": 196,
+         "Time": 3.74,
+         "Date_Time": "6/12/2001 19:20",
+         "10_Min_Sampled_Avg": 26.7
+      },
+      {
+         "10_Min_Std_Dev": 197,
+         "Time": 3.15,
+         "Date_Time": "6/12/2001 19:30",
+         "10_Min_Sampled_Avg": 25.9
+      },
+      {
+         "10_Min_Std_Dev": 198,
+         "Time": 3.05,
+         "Date_Time": "6/12/2001 19:40",
+         "10_Min_Sampled_Avg": 27.5
+      },
+      {
+         "10_Min_Std_Dev": 199,
+         "Time": 2.89,
+         "Date_Time": "6/12/2001 19:50",
+         "10_Min_Sampled_Avg": 28.2
+      },
+      {
+         "10_Min_Std_Dev": 200,
+         "Time": 2.46,
+         "Date_Time": "6/12/2001 20:00",
+         "10_Min_Sampled_Avg": 26.2
+      },
+      {
+         "10_Min_Std_Dev": 201,
+         "Time": 2.62,
+         "Date_Time": "6/12/2001 20:10",
+         "10_Min_Sampled_Avg": 26.8
+      },
+      {
+         "10_Min_Std_Dev": 202,
+         "Time": 2.78,
+         "Date_Time": "6/12/2001 20:20",
+         "10_Min_Sampled_Avg": 26.7
+      },
+      {
+         "10_Min_Std_Dev": 203,
+         "Time": 2.51,
+         "Date_Time": "6/12/2001 20:30",
+         "10_Min_Sampled_Avg": 26.7
+      },
+      {
+         "10_Min_Std_Dev": 204,
+         "Time": 2.35,
+         "Date_Time": "6/12/2001 20:40",
+         "10_Min_Sampled_Avg": 25.5
+      },
+      {
+         "10_Min_Std_Dev": 205,
+         "Time": 2.46,
+         "Date_Time": "6/12/2001 20:50",
+         "10_Min_Sampled_Avg": 25.4
+      },
+      {
+         "10_Min_Std_Dev": 206,
+         "Time": 2.73,
+         "Date_Time": "6/12/2001 21:00",
+         "10_Min_Sampled_Avg": 24.9
+      },
+      {
+         "10_Min_Std_Dev": 207,
+         "Time": 2.51,
+         "Date_Time": "6/12/2001 21:10",
+         "10_Min_Sampled_Avg": 25.2
+      },
+      {
+         "10_Min_Std_Dev": 208,
+         "Time": 3.26,
+         "Date_Time": "6/12/2001 21:20",
+         "10_Min_Sampled_Avg": 27.8
+      },
+      {
+         "10_Min_Std_Dev": 209,
+         "Time": 2.41,
+         "Date_Time": "6/12/2001 21:30",
+         "10_Min_Sampled_Avg": 27.1
+      },
+      {
+         "10_Min_Std_Dev": 210,
+         "Time": 2.46,
+         "Date_Time": "6/12/2001 21:40",
+         "10_Min_Sampled_Avg": 26.8
+      },
+      {
+         "10_Min_Std_Dev": 211,
+         "Time": 2.62,
+         "Date_Time": "6/12/2001 21:50",
+         "10_Min_Sampled_Avg": 27.6
+      },
+      {
+         "10_Min_Std_Dev": 212,
+         "Time": 2.94,
+         "Date_Time": "6/12/2001 22:00",
+         "10_Min_Sampled_Avg": 26.6
+      },
+      {
+         "10_Min_Std_Dev": 213,
+         "Time": 2.73,
+         "Date_Time": "6/12/2001 22:10",
+         "10_Min_Sampled_Avg": 26.4
+      },
+      {
+         "10_Min_Std_Dev": 214,
+         "Time": 2.46,
+         "Date_Time": "6/12/2001 22:20",
+         "10_Min_Sampled_Avg": 27.1
+      },
+      {
+         "10_Min_Std_Dev": 215,
+         "Time": 2.94,
+         "Date_Time": "6/12/2001 22:30",
+         "10_Min_Sampled_Avg": 24.7
+      },
+      {
+         "10_Min_Std_Dev": 216,
+         "Time": 2.09,
+         "Date_Time": "6/12/2001 22:40",
+         "10_Min_Sampled_Avg": 23.1
+      },
+      {
+         "10_Min_Std_Dev": 217,
+         "Time": 2.09,
+         "Date_Time": "6/12/2001 22:50",
+         "10_Min_Sampled_Avg": 22.1
+      },
+      {
+         "10_Min_Std_Dev": 218,
+         "Time": 2.03,
+         "Date_Time": "6/12/2001 23:00",
+         "10_Min_Sampled_Avg": 22.0
+      },
+      {
+         "10_Min_Std_Dev": 219,
+         "Time": 2.14,
+         "Date_Time": "6/12/2001 23:10",
+         "10_Min_Sampled_Avg": 21.2
+      },
+      {
+         "10_Min_Std_Dev": 220,
+         "Time": 2.35,
+         "Date_Time": "6/12/2001 23:20",
+         "10_Min_Sampled_Avg": 22.9
+      },
+      {
+         "10_Min_Std_Dev": 221,
+         "Time": 1.98,
+         "Date_Time": "6/12/2001 23:30",
+         "10_Min_Sampled_Avg": 21.6
+      },
+      {
+         "10_Min_Std_Dev": 222,
+         "Time": 2.19,
+         "Date_Time": "6/12/2001 23:40",
+         "10_Min_Sampled_Avg": 22.2
+      }
+   ]
+}
