@@ -36,7 +36,7 @@ const ChartComponent: React.FC = () => {
             series: selectedColumns.map(column => ({
                name: column,
                type: 'line',
-               data: chartData.map(item => item[column]), // Safe to index
+               data: chartData.map(item => item[column]),
                smooth: true,
                areaStyle: {}
             })),
@@ -71,7 +71,7 @@ const ChartComponent: React.FC = () => {
 
    const handleDrop = (event: React.DragEvent<HTMLDivElement>) => {
       event.preventDefault();
-      const column = event.dataTransfer.getData('text/plain') as keyof ChartData; // Cast here
+      const column = event.dataTransfer.getData('text/plain') as keyof ChartData;
       if (column && !selectedColumns.includes(column)) {
          setSelectedColumns([...selectedColumns, column]);
       }
@@ -139,7 +139,7 @@ const ChartComponent: React.FC = () => {
                   <div
                      key={item}
                      draggable
-                     onDragStart={(e) => handleDragStart(item as keyof ChartData, e)} // Cast here
+                     onDragStart={(e) => handleDragStart(item as keyof ChartData, e)}
                      onMouseEnter={() => setHoveredColumn(item)}
                      onMouseLeave={() => setHoveredColumn(null)}
                      style={{
